@@ -1,11 +1,13 @@
----
-layout: distill
+theme: jekyll-theme-cayman
 title: "Molecule Discovery Workshop (DRAFT, PRELIMINARY)"
 description: Information and call for papers of the ELLIS Molecule Discovery workshop
 date:   2021-09-22
 tags: Deep Learning Machine Learning Drug Discovery
 categories:
 - Machine Learning
+
+kramdown:
+  math_engine: mathjax
 
 authors:
  - name: none
