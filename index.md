@@ -26,7 +26,7 @@ b) generative models and optimization of molecules
 c) molecular representation learning
 d) machine learning for chemical reactivity, 
 e) analysis of biological images related to molecules, and
-f) molecular modeling with machine learnign methods. 
+f) molecular modeling with machine learning methods. 
 Papers are supposed to follow the paper template of NeurIPS and the maximum length 
 is 4 pages (not including references). Details on the submission process will follow soon. 
 
