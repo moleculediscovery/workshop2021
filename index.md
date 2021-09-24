@@ -38,7 +38,16 @@ is 4 pages (not including references). Details on the submission process will fo
  - Mid November: workshop paper notification
 
 # Organizing Committee and Contact
-Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer, Matt Kusner, Brooks Paige, Jennifer Wei, 
-Connor Coley, Marwin Segler, Andrea Volkamer, Ola Engkvist, Michele Ceriotti, Francesca Grisoni, Cecilia Clementi,
+Chairs: Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer;  
+Michele Ceriotti,
+Cecilia Clementi,
+Connor Coley, 
+Ola Engkvist, 
+Francesca Grisoni,
+Sepp Hochreiter,
+Matt Kusner, 
+Brooks Paige, 
 Sereina Riniker
-
+Marwin Segler, 
+Andrea Volkamer,
+Jennifer Wei.
