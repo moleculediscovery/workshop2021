@@ -47,7 +47,7 @@ Francesca Grisoni,
 Sepp Hochreiter,
 Matt Kusner, 
 Brooks Paige, 
-Sereina Riniker
+Sereina Riniker,
 Marwin Segler, 
 Andrea Volkamer,
 Jennifer Wei.
