@@ -3,15 +3,15 @@ Discovering new molecules with desired functions or activities is crucial for hu
 The workshop will be hosted by the ELLIS unit Cambridge and ELLIS unit Linz as a side-event to NeurIPS2021.
 
 # Schedule
-The workshop will take place on December xxth, 2021 via Zoom.
+The workshop will take place on December 13th, 2021 via Zoom.
 
 Preliminary schedule (CET time):
 
  - 9:00 Opening remarks
- - 9:15-10:30 Member talks 
+ - 9:15-10:30 Workshop talks 
  - 10:30-11:30 Invited talks and keynotes 
  - 11:30-12:30 Poster session 
- - 14:30-16:00 Member talks 
+ - 14:30-16:00 Workshop talks 
  - 16:00-17:00 Invited Talks and keynotes 
  - 17:00-17:30 Panel discussion 
  - 18:00-19:00 Poster session 2 
@@ -21,22 +21,24 @@ Preliminary schedule (CET time):
 Details on registration will follow soon. 
 
 # Call for contributions
-We are calling for workshop contributions in the areas of a) molecular property and activity prediction
-b) generative models and optimization of molecules
+We are calling for workshop contributions in the areas of
+machine learning for 
+a) molecular property and activity prediction
+b) generative modeling and optimization of molecules
 c) molecular representation learning
-d) machine learning for chemical reactivity, 
+d) chemical reactivity and synthesis planning, 
 e) analysis of biological images related to molecules, and
-f) molecular modeling with machine learning methods. 
+f) molecular modeling. 
 Papers are supposed to follow the paper template of NeurIPS and the maximum length 
 is 4 pages (not including references). Details on the submission process will follow soon. 
 
 # Important dates
  - December 12-16: main workshop
  - October 30, 23:59 (CET): workshop paper submission deadline
- - November 15: workshop paper notification
+ - Mid November: workshop paper notification
 
 # Organizing Committee and Contact
 Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer, Matt Kusner, Brooks Paige, Jennifer Wei, 
-Connor Coley, Andrea Volkamer, Ola Engkvist, Michele Ceriotti, Francesca Grisoni, Cecilia Clementi,
+Connor Coley, Marwin Segler, Andrea Volkamer, Ola Engkvist, Michele Ceriotti, Francesca Grisoni, Cecilia Clementi,
 Sereina Riniker
 
