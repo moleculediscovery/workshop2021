@@ -33,8 +33,8 @@ Papers are supposed to follow the paper template of NeurIPS and the maximum leng
 is 4 pages (not including references). Details on the submission process will follow soon. 
 
 # Important dates
- - December 12-16: main workshop
- - October 30, 23:59 (CET): workshop paper submission deadline
+ - December 13, 2021: main workshop
+ - October 30, 2021, 23:59 (CET): workshop paper submission deadline
  - Mid November: workshop paper notification
 
 # Organizing Committee and Contact
