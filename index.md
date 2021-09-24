@@ -12,7 +12,7 @@ Preliminary schedule (CET time):
  - 10:30-11:30 Invited talks and keynotes 
  - 11:30-12:30 Poster session 
  - 14:30-16:00 Workshop talks 
- - 16:00-17:00 Invited Talks and keynotes 
+ - 16:00-17:00 Invited talks and keynotes 
  - 17:00-17:30 Panel discussion 
  - 18:00-19:00 Poster session 2 
 
