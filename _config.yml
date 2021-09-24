@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: "Molecule Discovery Workshop (DRAFT, PRELIMINARY)"
+title: "ELLIS Machine Learning for Molecule Discovery Workshop"
 description: Information and call for papers of the ELLIS Molecule Discovery workshop
 date:   2021-09-22
-tags: Deep Learning Machine Learning Drug Discovery
+tags: "Deep Learning" "Machine Learning" "Drug Discovery"
 categories:
 - Machine Learning
 
@@ -10,7 +10,7 @@ kramdown:
   math_engine: mathjax
 
 authors:
- - name: none
+ - name: Guenter Klambauer
 
 _styles: >
   .align-images{
