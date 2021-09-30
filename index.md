@@ -1,6 +1,6 @@
 Discovering new molecules with desired functions or activities is crucial for human well-being by providing new medicines, securing the world’s food supply via agrochemicals, or enabling a sustainable energy conversion and storage to counter or mitigate climate change. However, the discovery of new molecules or molecular materials that are optimized for a particular purpose can often take up to a decade and is highly cost-intensive. Machine-learning (ML) methods can accelerate molecular discovery, which is of considerable importance generally, but especially in light of the COVID-19 crisis and future pandemics. To reach this goal of speeding up the discovery of new functional molecules, it is necessary to establish a dialogue between domain experts and ML researchers to ensure that ML positively impacts real world scenarios. The importance of this field has been acknowledged also by Stanford’s 2021 Artificial Intelligence index report which states that “Drugs, Cancer, Molecular, Drug Discovery” received the greatest amount of private AI investment in 2020, with more than USD 13.8 billion, 4.5 times higher than 2019. In this workshop, we are bringing together the expertise of excellent researchers in the field of ML and its applications to molecular discovery. 
 
-The workshop will be hosted by the ELLIS unit Cambridge and ELLIS unit Linz as a side-event to NeurIPS2021.
+The workshop will be hosted by the [ELLIS unit Cambridge](http://www.ellis.eng.cam.ac.uk/) and [ELLIS unit Linz](https://www.jku.at/en/lit-artificial-intelligence-lab/ellis-unit-linz/) as a side-event to NeurIPS2021.
 
 # Schedule
 The workshop will take place on December 13th, 2021 via Zoom.
@@ -33,7 +33,7 @@ c) molecular representation learning
 d) chemical reactivity and synthesis planning, and
 e) molecular modeling. 
 Papers are supposed to follow the paper template of NeurIPS and the maximum length 
-is 4 pages (not including references). Details on the submission process will follow soon. 
+is 4 pages (not including references). Submission on [OpenReview](https://openreview.net/group?id=moleculediscovery.github.io/2021/Workshop/ML4Molecules).
 
 # Important dates
  - October 30, 2021: paper submission deadline
