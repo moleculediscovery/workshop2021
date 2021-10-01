@@ -41,7 +41,7 @@ is 4 pages (not including references). Submission on [OpenReview](https://openre
  - December 13, 2021: workshop
 
 # Organizing Committee and Contact
-Chairs: Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer;  contact: ml4molecules@ml.jku.at
+Chairs: Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer; Contact: ml4molecules@ml.jku.at  
 Michele Ceriotti,
 Cecilia Clementi,
 Connor Coley, 
