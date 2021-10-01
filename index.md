@@ -36,7 +36,7 @@ Papers are supposed to follow the paper template of NeurIPS and the maximum leng
 is 4 pages (not including references). Submission on [OpenReview](https://openreview.net/group?id=moleculediscovery.github.io/2021/Workshop/ML4Molecules).
 
 # Important dates
- - October 30, 2021: paper submission deadline
+ - October 31, 2021: paper submission deadline
  - Mid November, 2021: paper notification
  - December 13, 2021: workshop
 
@@ -50,6 +50,7 @@ Francesca Grisoni,
 Sepp Hochreiter,
 Matt Kusner, 
 Brooks Paige, 
+Bharath Ramsundar,
 Sereina Riniker,
 Marwin Segler, 
 Andrea Volkamer,
