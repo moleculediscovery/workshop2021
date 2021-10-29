@@ -38,8 +38,9 @@ The review process is double-blind -- please **anonymize your paper**!
 Submission on [OpenReview](https://openreview.net/group?id=moleculediscovery.github.io/2021/Workshop/ML4Molecules).
 
 # Important dates
- - October 31, 2021: paper submission deadline
- - Mid November, 2021: paper notification
+ - November 3, 2021: abstract submission deadline (EXTENDED)
+ - November 7, 2021: paper submission deadline (EXTENDED)
+ - Late November, 2021: paper notification
  - December 13, 2021: workshop
 
 # Organizing Committee and Contact
