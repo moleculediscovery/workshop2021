@@ -34,11 +34,10 @@ d) chemical reactivity and synthesis planning, and
 e) molecular modeling. 
 Papers are supposed to follow the paper template of NeurIPS and the maximum length 
 is 4 pages (not including references). 
-The review process is double-blind -- please **anonymize your paper**!
+The review process is dual-anonymous -- please **anonymize your paper**!
 Submission on [OpenReview](https://openreview.net/group?id=moleculediscovery.github.io/2021/Workshop/ML4Molecules).
 
 # Important dates
- - November 3, 2021: abstract submission deadline (EXTENDED)
  - November 7, 2021: paper submission deadline (EXTENDED)
  - Late November, 2021: paper notification
  - December 13, 2021: workshop
