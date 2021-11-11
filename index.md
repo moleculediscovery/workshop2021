@@ -22,7 +22,7 @@ Preliminary schedule (CET time):
 
 
 # Registration
-Details on registration will follow soon. 
+Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-205676733647)
 
 # Call for contributions
 We are calling for workshop contributions in the areas of
