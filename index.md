@@ -8,13 +8,13 @@ The workshop will take place on December 13th, 2021 via Zoom.
 Preliminary schedule (CET time):
 
  - 9:00 Opening remarks
- - 9:15-10:30 Workshop talks
- - 10:30-11:30 Invited talks and keynotes
+ - 9:15-10:30 Workshop talks: Sereina Riniker, Ola Engkvist, Johannes Margraf, Günter Klambauer, Jose Miguel Hernandez Lobato, Francesca Grisoni
+ - 10:30-11:30 Invited talks and keynotes: Greg Landrum, Camille Marin
  - 11:30-12:30 Poster session 1
  - 12:30-14:30 Break
- - 14:30-16:00 Workshop talks
- - 16:00-17:00 Invited talks and keynotes
- - 17:00-17:30 Panel discussion
+ - 14:30-16:00 Workshop talks: Michele Ceriotti, Fernanda Duarte, Gábor Csányi, Cecilia Clementi
+ - 16:00-17:00 Invited talks and keynotes: Heather Kullik, Phillippe Schwaller 
+ - 17:00-17:30 Panel discussion: Ola Engkvist, Bharath Ramsundar, Jose Miguel Hernandez Lobato, Francesca Grisoni
  - 18:00-19:00 Poster session 2
  - 19:00- 20:00 Break
  - 20:00-21:30 Paper talks and invited talks
