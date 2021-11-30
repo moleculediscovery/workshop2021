@@ -8,16 +8,46 @@ The workshop will take place on December 13th, 2021 via Zoom.
 Preliminary schedule (CET time):
 
  - 9:00 Opening remarks
- - 9:15-10:30 Workshop talks: Sereina Riniker, Ola Engkvist, Johannes Margraf, Günter Klambauer, Jose Miguel Hernandez Lobato, Francesca Grisoni
- - 10:30-11:30 Invited talks and keynotes: Greg Landrum, Camille Marin
- - 11:30-12:30 Poster session 1
+ - 9:15-10:30 Workshop talks
+     - Andrea Volkamer, Charite Berlin, Germany
+     - Ola Engkvist, AstraZeneca, Sweden
+     - Johannes Margraf, Fritz Haber Institute Berlin, Germany
+     - Günter Klambauer, Johannes Kepler University Linz, Austria
+     - Sereina Riniker, ETH Zurich, Switzerland
+     - Jose Miguel Hernandez Lobato, University of Cambridge, UK
+     - Francesca Grisoni, TU Eindhoven, Netherlands
+ - 10:30-11:30 Invited talks and keynotes
+     - Paula Marin Zapata, Bayer Pharmaceuticals, Germany
+     - Greg Landrum, ETH Zurich, Switzerland  
+     - Camille Marini, Owkin, France
+ - 11:30-12:30 Poster session 1: https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop
  - 12:30-14:30 Break
- - 14:30-16:00 Workshop talks: Michele Ceriotti, Fernanda Duarte, Gábor Csányi, Cecilia Clementi
- - 16:00-17:00 Invited talks and keynotes: Heather Kullik, Phillippe Schwaller 
+ - 14:30-15:30 Workshop talks
+     - Michele Ceriotti, EPFL, Switzerland
+     - Fernanda Duarte, University of Oxford, UK
+     - Gábor Csányi, University of Cambridge, UK
+     - Wengong Jin, MIT, USA
+     - Cecilia Clementi, Freie Universität Berlin, Germany
+ - 15:30-16:00 Contributed talks
+     - Vall et al., BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions
+     - Mariaz et al., Learning to Extend Molecular Scaffolds with Structural Motifs
+     - Stärk et al., 3D Infomax improves GNNs for Molecular Property Prediction
+ - 16:00-17:00 Invited talks and keynotes
+     - Daniel Reker, Duke University, USA
+     - Phillippe Schwaller, EPFL, Switzerland
+     - Heather Kullik, MIT, USA
  - 17:00-17:30 Panel discussion: Ola Engkvist, Bharath Ramsundar, Jose Miguel Hernandez Lobato, Francesca Grisoni
- - 18:00-19:00 Poster session 2
+ - 18:00-19:00 Poster session 2: https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop
  - 19:00- 20:00 Break
- - 20:00-21:30 Paper talks and invited talks
+ - 20:00-21:30 Contributed talks and invited talks
+     - Ortegon et al., DOCKSTRING, a better yardstick for ligand discovery
+     - Kwate et al., Identification of Enzymatic Active Sites with Unsupervised Language Modeling
+     - Bodnar et al., Weisfeiler and Lehman Go Cellular: CW Networks
+     - Ganea et al., Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking
+     - Huang et al., Benchmarking Molecular Machine Learning in Therapeutics Data Commons
+     - Du et al., Interpreting Molecular Space with Deep Generative Models
+     - Deshwall et al., Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces
+     - Invited talk: Tess Smidt, MIT, USA
  - 21:30-21:45 Closing remarks
 
 
