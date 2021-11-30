@@ -2,10 +2,8 @@ Discovering new molecules with desired functions or activities is crucial for hu
 
 The workshop will be hosted by the [ELLIS unit Cambridge](http://www.ellis.eng.cam.ac.uk/) and [ELLIS unit Linz](https://www.jku.at/en/lit-artificial-intelligence-lab/ellis-unit-linz/) as a side-event to NeurIPS2021.
 
-# Schedule
+# Schedule (preliminary; CET time)
 The workshop will take place on December 13th, 2021 via Zoom.
-
-Preliminary schedule (CET time):
 
  - 9:00 Opening remarks (ML4Molecules Program Chairs)
  - 9:15-10:30 Workshop talks (session chair: Marwin Segler)
