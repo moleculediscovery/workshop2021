@@ -55,8 +55,8 @@ Preliminary schedule (CET time):
 Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-205676733647)
 
 # Important dates
- - November 7, 2021: paper submission deadline
- - Late November, 2021: paper notification
+ - November 7, 2021: submission deadline
+ - Late November, 2021: author notification
  - December 13, 2021: workshop
 
 # Accepted contributions (oral):
