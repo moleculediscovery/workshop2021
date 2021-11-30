@@ -30,16 +30,16 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - December 13, 2021: workshop
 
 # Accepted contributions (oral):
- - &#35;01 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk|Dominique Beaini|Gabriele Corso|Prudencio Tossou|Christian Dallago|Stephan Günnemann|Pietro Lio
- - &#35;02 BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall|Sepp Hochreiter|Günter Klambauer
- - &#35;08 Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang|Tianfan Fu|Wenhao Gao|Yue Zhao|Yusuf H Roohani|Jure Leskovec|Connor W. Coley|Cao Xiao|Jimeng Sun|Marinka Zitnik
- - &#35;10 Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate|Matteo Manica|Daniel Probst|Philippe Schwaller|Yves Gaetan Nana Teukam|Teodoro Laino
- - &#35;12 Interpreting Molecular Space with Deep Generative Models; Yuanqi Du|Xian Liu|Shengchao Liu|Jieyu Zhang|Bolei Zhou
- - &#35;21 Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Octavian-Eugen Ganea|Xinyuan Huang|Charlotte Bunne|Yatao Bian|Regina Barzilay|Tommi S. Jaakkola|Andreas Krause
- - &#35;30 Weisfeiler and Lehman Go Cellular: CW Networks; Cristian Bodnar|Fabrizio Frasca|Nina Otter|Yu Guang Wang|Pietro Lio|Guido Montufar|Michael M. Bronstein
- - &#35;32 Learning to Extend Molecular Scaffolds with Structural Motifs; Krzysztof Maziarz|Henry Richard Jackson-Flux|Pashmina Cameron|Finton Sirockin|Nadine Schneider|Nikolaus Stiefl|Marwin Segler|Marc Brockschmidt
- - &#35;35 Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Aryan Deshwal|Jana Doppa
- - &#35;36 DOCKSTRING, a better yardstick for ligand discovery; Miguel Garcia Ortegon|Gregor N. C. Simm|Austin Tripp|José Miguel Hernández-Lobato|Andreas Bender|Sergio Bacallado
+ - &#35;01 3D Infomax improves GNNs for Molecular Property Prediction; Stärk et al.
+ - &#35;02 BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Vall et al.
+ - &#35;08 Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Huang et al.
+ - &#35;10 Identification of Enzymatic Active Sites with Unsupervised Language Modeling; Kwate et al.
+ - &#35;12 Interpreting Molecular Space with Deep Generative Models; Du et al.
+ - &#35;21 Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Ganea et al. 
+ - &#35;30 Weisfeiler and Lehman Go Cellular: CW Networks; Bodnar et al.
+ - &#35;32 Learning to Extend Molecular Scaffolds with Structural Motifs; Maziarz et al.
+ - &#35;35 Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Deshwal et al.
+ - &#35;36 DOCKSTRING, a better yardstick for ligand discovery; Ortegon et al. 
 
 
 
