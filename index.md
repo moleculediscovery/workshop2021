@@ -7,8 +7,8 @@ The workshop will take place on December 13th, 2021 via Zoom.
 
 Preliminary schedule (CET time):
 
- - 9:00 Opening remarks
- - 9:15-10:30 Workshop talks
+ - 9:00 Opening remarks (ML4Molecules Program Chairs)
+ - 9:15-10:30 Workshop talks (session chair: Marwin Segler)
      - Andrea Volkamer, Charite Berlin, Germany
      - Ola Engkvist, AstraZeneca, Sweden
      - Johannes Margraf, Fritz Haber Institute Berlin, Germany
@@ -20,9 +20,9 @@ Preliminary schedule (CET time):
      - Paula Marin Zapata, Bayer Pharmaceuticals, Germany
      - Greg Landrum, ETH Zurich, Switzerland  
      - Camille Marini, Owkin, France
- - 11:30-12:30 Poster session 1: https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop
+ - 11:30-12:30 Poster session 1: [Gathertown](https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop)
  - 12:30-14:30 Break
- - 14:30-15:30 Workshop talks
+ - 14:30-15:30 Workshop talks (session chair: Nadine Schneider)
      - Michele Ceriotti, EPFL, Switzerland
      - Fernanda Duarte, University of Oxford, UK
      - Gábor Csányi, University of Cambridge, UK
@@ -32,14 +32,14 @@ Preliminary schedule (CET time):
      - Vall et al., BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions
      - Mariaz et al., Learning to Extend Molecular Scaffolds with Structural Motifs
      - Stärk et al., 3D Infomax improves GNNs for Molecular Property Prediction
- - 16:00-17:00 Invited talks and keynotes
+ - 16:00-17:00 Invited talks and keynotes (session chair: Jennifer Wei)
      - Daniel Reker, Duke University, USA
      - Phillippe Schwaller, EPFL, Switzerland
      - Heather Kullik, MIT, USA
- - 17:00-17:30 Panel discussion: Ola Engkvist, Bharath Ramsundar, Jose Miguel Hernandez Lobato, Francesca Grisoni
- - 18:00-19:00 Poster session 2: https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop
+ - 17:00-17:30 Panel discussion on current challenges and opportunities in Machine Learning for Molecule Discovery (moderator: Marwin Segler): Ola Engkvist, Bharath Ramsundar, Jose Miguel Hernandez Lobato, Francesca Grisoni. 
+ - 18:00-19:00 Poster session 2: [Gathertown](https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop)
  - 19:00- 20:00 Break
- - 20:00-21:30 Contributed talks and invited talks
+ - 20:00-21:30 Contributed talks and invited talks (session chair: Günter Klambauer)
      - Ortegon et al., DOCKSTRING, a better yardstick for ligand discovery
      - Kwate et al., Identification of Enzymatic Active Sites with Unsupervised Language Modeling
      - Bodnar et al., Weisfeiler and Lehman Go Cellular: CW Networks
