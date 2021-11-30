@@ -24,23 +24,24 @@ Preliminary schedule (CET time):
 # Registration
 Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-205676733647)
 
-# Call for contributions
-We are calling for workshop contributions in the areas of
-machine learning for 
-a) molecular property and activity prediction
-b) generative modeling and optimization of molecules
-c) molecular representation learning
-d) chemical reactivity and synthesis planning, and
-e) molecular modeling. 
-Papers are supposed to follow the paper template of NeurIPS and the maximum length 
-is 4 pages (not including references). 
-The review process is dual-anonymous -- please **anonymize your paper**!
-Submission on [OpenReview](https://openreview.net/group?id=moleculediscovery.github.io/2021/Workshop/ML4Molecules).
-
 # Important dates
- - November 7, 2021: paper submission deadline (EXTENDED)
+ - November 7, 2021: paper submission deadline
  - Late November, 2021: paper notification
  - December 13, 2021: workshop
+
+# Accepted contributions (oral):
+ - &#35;01 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk|Dominique Beaini|Gabriele Corso|Prudencio Tossou|Christian Dallago|Stephan Günnemann|Pietro Lio
+ - &#35;02 BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall|Sepp Hochreiter|Günter Klambauer
+ - &#35;08 Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang|Tianfan Fu|Wenhao Gao|Yue Zhao|Yusuf H Roohani|Jure Leskovec|Connor W. Coley|Cao Xiao|Jimeng Sun|Marinka Zitnik
+ - &#35;10 Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate|Matteo Manica|Daniel Probst|Philippe Schwaller|Yves Gaetan Nana Teukam|Teodoro Laino
+ - &#35;12 Interpreting Molecular Space with Deep Generative Models; Yuanqi Du|Xian Liu|Shengchao Liu|Jieyu Zhang|Bolei Zhou
+ - &#35;21 Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Octavian-Eugen Ganea|Xinyuan Huang|Charlotte Bunne|Yatao Bian|Regina Barzilay|Tommi S. Jaakkola|Andreas Krause
+ - &#35;30 Weisfeiler and Lehman Go Cellular: CW Networks; Cristian Bodnar|Fabrizio Frasca|Nina Otter|Yu Guang Wang|Pietro Lio|Guido Montufar|Michael M. Bronstein
+ - &#35;32 Learning to Extend Molecular Scaffolds with Structural Motifs; Krzysztof Maziarz|Henry Richard Jackson-Flux|Pashmina Cameron|Finton Sirockin|Nadine Schneider|Nikolaus Stiefl|Marwin Segler|Marc Brockschmidt
+ - &#35;35 Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Aryan Deshwal|Jana Doppa
+ - &#35;36 DOCKSTRING, a better yardstick for ligand discovery; Miguel Garcia Ortegon|Gregor N. C. Simm|Austin Tripp|José Miguel Hernández-Lobato|Andreas Bender|Sergio Bacallado
+
+
 
 # Organizing Committee and Contact
 Chairs: Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer;  
