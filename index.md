@@ -30,18 +30,48 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - December 13, 2021: workshop
 
 # Accepted contributions (oral):
- - &#35;01 3D Infomax improves GNNs for Molecular Property Prediction; Stärk et al.
- - &#35;02 BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Vall et al.
- - &#35;08 Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Huang et al.
- - &#35;10 Identification of Enzymatic Active Sites with Unsupervised Language Modeling; Kwate et al.
- - &#35;12 Interpreting Molecular Space with Deep Generative Models; Du et al.
- - &#35;21 Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Ganea et al. 
- - &#35;30 Weisfeiler and Lehman Go Cellular: CW Networks; Bodnar et al.
- - &#35;32 Learning to Extend Molecular Scaffolds with Structural Motifs; Maziarz et al.
- - &#35;35 Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Deshwal et al.
- - &#35;36 DOCKSTRING, a better yardstick for ligand discovery; Ortegon et al. 
+- &#35;01 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Lio
+- &#35;02 BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall, Sepp Hochreiter, Günter Klambauer
+- &#35;08 Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf H Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik
+- &#35;10 Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate, Matteo Manica, Daniel Probst, Philippe Schwaller, Yves Gaetan Nana Teukam, Teodoro Laino
+- &#35;12 Interpreting Molecular Space with Deep Generative Models; Yuanqi Du, Xian Liu, Shengchao Liu, Jieyu Zhang, Bolei Zhou
+- &#35;21 Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause
+- &#35;30 Weisfeiler and Lehman Go Cellular: CW Networks; Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Lio, Guido Montufar, Michael M. Bronstein
+- &#35;32 Learning to Extend Molecular Scaffolds with Structural Motifs; Krzysztof Maziarz, Henry Richard Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, Marc Brockschmidt
+- &#35;35 Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Aryan Deshwal, Jana Doppa
+- &#35;36 DOCKSTRING, a better yardstick for ligand discovery; Miguel Garcia Ortegon, Gregor N. C. Simm, Austin Tripp, José Miguel Hernández-Lobato, Andreas Bender, Sergio Bacallado
 
 
+# Accepted contributions (poster):
+ - &#35;03 Active site sequence representation of human kinases outperforms full sequence for affinity prediction; Jannis Born, Tien Huynh, Astrid Stroobants, Wendy Cornell, Matteo Manica
+ - &#35;04 Learning Discrete Neural Reaction Class to Improve Retrosynthesis Prediction; Théophile Gaudin, Yuhuai Wu, Robert Pollice, Animesh Garg, Alan Aspuru-Guzik
+ - &#35;06 Designing physics-based reaction representations; Puck Van Gerwen, Raimon De Aguilar-Amat Fabregat, Alberto Fabrizio, Clemence Corminboeuf
+ - &#35;07 A transferable Boltzmann generator for small-molecules conformers; Juan Viguera Diez, Sara Romeo Atance, Ola Engkvist, Rocío Mercado, Simon Olsson
+ - &#35;11 Molecule Generation from Input-Attributions overGraph Convolutional Networks; Dylan Savoia, Alessio Ragno, Roberto Capobianco
+ - &#35;13 Beyond Atoms and Bonds: Contextual Explainability via Molecular Graphical Depictions; Marco Bertolini, Linlin Zhao, Djork-Arné Clevert, Floriane Montanari
+ - &#35;14 Relative Molecule Self-Attention Transformer; Lukasz Maziarka, Dawid Majchrowski, Tomasz Danel, Piotr Gaiński, Jacek Tabor, Igor T. Podolak, Pawel Morkisz, Stanislaw Kamil Jastrzebski
+ - &#35;15 Interpretable Molecular Graph Generation via Monotonic Constraints; Yuanqi Du, Xiaojie Guo, Amarda Shehu, Liang Zhao
+ - &#35;16 Molecular Property Prediction as a Few-Shot Learning Problem; Megan Stanley, John F Bronskill, Krzysztof Maziarz, Hubert Misztela, Jessica Lanini, Marwin Segler, Nadine Schneider, Marc Brockschmidt
+ - &#35;17 FastFlows: Flow-Based Models for Molecular GraphGeneration; Nathan C. Frey, Vijay Gadepally, Bharath Ramsundar
+ - &#35;18 Multi-task deep reinforcement learning for molecular optimization; Zhenwei DAI, Denis Akhiyarov, Reda Alami, Diego Pantano, Mauricio Araya-Polo, Cécile Pereira
+ - &#35;19 MoleculeFlow: A Deep Generative Workflow for 3D Molecular Generation; Ethan Ferguson, Shehtab Zaman, Mauricio Araya-Polo, Denis Akhiyarov, Kenneth Chiu, Cécile Pereira
+ - &#35;20 Semi-Supervised GCN for learning Molecular Structure-Activity Relationships; Alessio Ragno, Dylan Savoia, Roberto Capobianco
+ - &#35;22 A Sequence-to-Sequence Transformer Model for Disconnection Aware Retrosynthesis; Andrea Byekwaso, Alain C. Vaucher, Philippe Schwaller, Alessandra Toniato, Teodoro Laino
+ - &#35;23 Learning Small Molecule Energies and Interatomic Forces with an Equivariant Transformer on the ANI-1x Dataset; Bryce Hedelius, Fabian Bernd Fuchs, Dennis Della Corte
+ - &#35;24 Score-Based Generative Models for Molecule Generation; Dwaraknath Gnaneshwar, Bharath Ramsundar, Dhairya Gandhi, Rachel Kurchin, Venkatasubraman Viswanathan
+ - &#35;25 NPS-MS: A highly accurate MS/MS prediction model for Novel Psychoactive Substances; Fei Wang, Daniel Pasin, Jaanus Liigand, Michael Skinnider, Foster Leonard, Petur Dalsgaard, Russell Greiner, David 
+ - &#35;26 Bootstrap Your Flow; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, José Miguel Hernández-Lobato
+ - &#35;27 ChemBERTa-2: Towards Chemical Foundation Models; Walid Ahmad, Elana Simon, Seyone Chithrananda, Bharath Ramsundar
+ - &#35;28 Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics; John Kevin Cava, John Vant, Nicholas Ho, Ankita Shukla, Pavan K. Turaga, Ross Maciejewski, Abhishek Singharoy
+ - &#35;29 Molecular Graph Generation via Geometric Scattering; Dhananjay Bhaskar, Jackson D Grady, Michael Perlmutter, Smita Krishnaswamy
+ - &#35;31 Permutation Equivariant Generative Adversarial Networks for Graphs; Yoann Boget, Magda Gregorova, Alexandros Kalousis
+Wishart
+ - &#35;33 A generalized framework for embedding-based few-shot learning methods in drug discovery; Johannes Schimunek, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer	
+ - &#35;34 Molecular Bioactivity Prediction Based on Hybrid Deep Neural Network; Magdalena Wiercioch
+ - &#35;38 Non-equilibrium molecular geometries in graph neural networks; Ali Raza, Xiaoli Fern, Adrian Henle
+
+
+	
 
 # Organizing Committee and Contact
 Chairs: Jose Miguel Hernandez Lobato, Nadine Schneider, Günter Klambauer;  
