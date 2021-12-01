@@ -58,7 +58,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - December 13, 2021: workshop
 
 # Accepted contributions (oral):
-- &#35;**01** 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Lio
+- &#35;**01** 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Lio [\[PDF\]](https://cloud.ml.jku.at/s/6k9yb8AWDEPYxss)
 - &#35;**02** BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/bMkqXcxxyPgd2w7) [\[ZIP\]](https://cloud.ml.jku.at/s/gKFW7bZnadbDgEo)
 - &#35;**08** Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf H Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik
 - &#35;**10** Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate, Matteo Manica, Daniel Probst, Philippe Schwaller, Yves Gaetan Nana Teukam, Teodoro Laino
