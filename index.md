@@ -14,7 +14,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
      - Sereina Riniker, ETH Zurich, Switzerland
      - Jose Miguel Hernandez Lobato, University of Cambridge, UK
      - Francesca Grisoni, TU Eindhoven, Netherlands
- - 10:30-11:30 Invited talks and keynotes
+ - 10:30-11:30 Invited talks and keynotes (session chair: Andrea Volkamer)
      - Paula Marin Zapata, Bayer Pharmaceuticals, Germany
      - Greg Landrum, ETH Zurich, Switzerland  
      - Camille Marini, Owkin, France
@@ -22,6 +22,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
  - 12:30-14:30 Break
  - 14:30-15:30 Workshop talks (session chair: Nadine Schneider)
      - Michele Ceriotti, EPFL, Switzerland
+     - Megan Stanley, Microsoft Research, UK
      - Fernanda Duarte, University of Oxford, UK
      - Gábor Csányi, University of Cambridge, UK
      - Wengong Jin, MIT, USA
