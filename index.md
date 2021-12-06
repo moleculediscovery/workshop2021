@@ -61,13 +61,13 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
 # Accepted contributions (oral):
 - &#35;**01** 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Lio [\[PDF\]](https://cloud.ml.jku.at/s/6k9yb8AWDEPYxss)
 - &#35;**02** BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/bMkqXcxxyPgd2w7) [\[ZIP\]](https://cloud.ml.jku.at/s/gKFW7bZnadbDgEo)
-- &#35;**08** Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf H Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik
+- &#35;**08** Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf H Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik [\[PDF\]](https://cloud.ml.jku.at/s/54pB5Eqf6ftX7qA)
 - &#35;**10** Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate, Matteo Manica, Daniel Probst, Philippe Schwaller, Yves Gaetan Nana Teukam, Teodoro Laino
 - &#35;**12** Interpreting Molecular Space with Deep Generative Models; Yuanqi Du, Xian Liu, Shengchao Liu, Jieyu Zhang, Bolei Zhou [\[PDF\]](https://cloud.ml.jku.at/s/ESbTp4famasNJoX)
 - &#35;**21** Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause
 - &#35;**30** Weisfeiler and Lehman Go Cellular: CW Networks; Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Lio, Guido Montufar, Michael M. Bronstein
 - &#35;**32** Learning to Extend Molecular Scaffolds with Structural Motifs; Krzysztof Maziarz, Henry Richard Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, Marc Brockschmidt
-- &#35;**35** Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Aryan Deshwal, Jana Doppa
+- &#35;**35** Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Aryan Deshwal, Jana Doppa [\[PDF\]](https://cloud.ml.jku.at/s/6Kr2ktb7KNqSexk)
 - &#35;**36** DOCKSTRING, a better yardstick for ligand discovery; Miguel Garcia Ortegon, Gregor N. C. Simm, Austin Tripp, José Miguel Hernández-Lobato, Andreas Bender, Sergio Bacallado
 
 
@@ -85,7 +85,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**18** Multi-task deep reinforcement learning for molecular optimization; Zhenwei DAI, Denis Akhiyarov, Reda Alami, Diego Pantano, Mauricio Araya-Polo, Cécile Pereira
  - &#35;**19** MoleculeFlow: A Deep Generative Workflow for 3D Molecular Generation; Ethan Ferguson, Shehtab Zaman, Mauricio Araya-Polo, Denis Akhiyarov, Kenneth Chiu, Cécile Pereira
  - &#35;**20** Semi-Supervised GCN for learning Molecular Structure-Activity Relationships; Alessio Ragno, Dylan Savoia, Roberto Capobianco
- - &#35;**22** A Sequence-to-Sequence Transformer Model for Disconnection Aware Retrosynthesis; Andrea Byekwaso, Alain C. Vaucher, Philippe Schwaller, Alessandra Toniato, Teodoro Laino
+ - &#35;**22** A Sequence-to-Sequence Transformer Model for Disconnection Aware Retrosynthesis; Andrea Byekwaso, Alain C. Vaucher, Philippe Schwaller, Alessandra Toniato, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/nrDLewdnb6qzrtj)
  - &#35;**23** Learning Small Molecule Energies and Interatomic Forces with an Equivariant Transformer on the ANI-1x Dataset; Bryce Hedelius, Fabian Bernd Fuchs, Dennis Della Corte
  - &#35;**24** Score-Based Generative Models for Molecule Generation; Dwaraknath Gnaneshwar, Bharath Ramsundar, Dhairya Gandhi, Rachel Kurchin, Venkatasubraman Viswanathan
  - &#35;**25** NPS-MS: A highly accurate MS/MS prediction model for Novel Psychoactive Substances; Fei Wang, Daniel Pasin, Jaanus Liigand, Michael Skinnider, Foster Leonard, Petur Dalsgaard, Russell Greiner, David
