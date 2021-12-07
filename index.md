@@ -73,7 +73,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
 
 # Accepted contributions (poster):
  - &#35;**03** Active site sequence representation of human kinases outperforms full sequence for affinity prediction; Jannis Born, Tien Huynh, Astrid Stroobants, Wendy Cornell, Matteo Manica
- - &#35;**04** Learning Discrete Neural Reaction Class to Improve Retrosynthesis Prediction; Théophile Gaudin, Yuhuai Wu, Robert Pollice, Animesh Garg, Alan Aspuru-Guzik
+ - &#35;**04** Learning Discrete Neural Reaction Class to Improve Retrosynthesis Prediction; Théophile Gaudin, Yuhuai Wu, Robert Pollice, Animesh Garg, Alan Aspuru-Guzik  [\[PDF\]](https://cloud.ml.jku.at/s/BdpL3kSGK6ScWXY)
  - &#35;**06** Designing physics-based reaction representations; Puck Van Gerwen, Raimon De Aguilar-Amat Fabregat, Alberto Fabrizio, Clemence Corminboeuf [\[PDF\]](https://cloud.ml.jku.at/s/ZwcnzLDfACQ4egt) [\[ZIP\]](https://cloud.ml.jku.at/s/zn37ERRcB374YmY)
  - &#35;**07** A transferable Boltzmann generator for small-molecules conformers; Juan Viguera Diez, Sara Romeo Atance, Ola Engkvist, Rocío Mercado, Simon Olsson [\[PDF\]](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ) [\[ZIP\]](https://cloud.ml.jku.at/s/gGk3PE35zQ7zZtK)
  - &#35;**11** Molecule Generation from Input-Attributions overGraph Convolutional Networks; Dylan Savoia, Alessio Ragno, Roberto Capobianco
