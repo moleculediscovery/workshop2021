@@ -62,7 +62,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
 - &#35;**01** 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Lio [\[PDF\]](https://cloud.ml.jku.at/s/6k9yb8AWDEPYxss)
 - &#35;**02** BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/atin93s4Rks3iM4) [\[ZIP\]](https://cloud.ml.jku.at/s/gKFW7bZnadbDgEo)
 - &#35;**08** Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf H Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik [\[PDF\]](https://cloud.ml.jku.at/s/54pB5Eqf6ftX7qA)
-- &#35;**10** Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate, Matteo Manica, Daniel Probst, Philippe Schwaller, Yves Gaetan Nana Teukam, Teodoro Laino
+- &#35;**10** Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate, Matteo Manica, Daniel Probst, Philippe Schwaller, Yves Gaetan Nana Teukam, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/6HLAWREcPJzbPpj)
 - &#35;**12** Interpreting Molecular Space with Deep Generative Models; Yuanqi Du, Xian Liu, Shengchao Liu, Jieyu Zhang, Bolei Zhou [\[PDF\]](https://cloud.ml.jku.at/s/ESbTp4famasNJoX)
 - &#35;**21** Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause
 - &#35;**30** Weisfeiler and Lehman Go Cellular: CW Networks; Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Lio, Guido Montufar, Michael M. Bronstein
@@ -88,7 +88,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**22** A Sequence-to-Sequence Transformer Model for Disconnection Aware Retrosynthesis; Andrea Byekwaso, Alain C. Vaucher, Philippe Schwaller, Alessandra Toniato, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/nrDLewdnb6qzrtj)
  - &#35;**23** Learning Small Molecule Energies and Interatomic Forces with an Equivariant Transformer on the ANI-1x Dataset; Bryce Hedelius, Fabian Bernd Fuchs, Dennis Della Corte
  - &#35;**24** Score-Based Generative Models for Molecule Generation; Dwaraknath Gnaneshwar, Bharath Ramsundar, Dhairya Gandhi, Rachel Kurchin, Venkatasubraman Viswanathan
- - &#35;**25** NPS-MS: A highly accurate MS/MS prediction model for Novel Psychoactive Substances; Fei Wang, Daniel Pasin, Jaanus Liigand, Michael Skinnider, Foster Leonard, Petur Dalsgaard, Russell Greiner, David
+ - &#35;**25** NPS-MS: A highly accurate MS/MS prediction model for Novel Psychoactive Substances; Fei Wang, Daniel Pasin, Jaanus Liigand, Michael Skinnider, Foster Leonard, Petur Dalsgaard, Russell Greiner, David [\[PDF\]](https://cloud.ml.jku.at/s/TixweJazScdqCek)
  - &#35;**26** Bootstrap Your Flow; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, José Miguel Hernández-Lobato
  - &#35;**27** ChemBERTa-2: Towards Chemical Foundation Models; Walid Ahmad, Elana Simon, Seyone Chithrananda, Bharath Ramsundar
  - &#35;**28** Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics; John Kevin Cava, John Vant, Nicholas Ho, Ankita Shukla, Pavan K. Turaga, Ross Maciejewski, Abhishek Singharoy
