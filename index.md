@@ -29,7 +29,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
      - Cecilia Clementi, Freie Universität Berlin, Germany
  - 15:30-16:00 Contributed talks
      - Vall et al., BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions
-     - Mariaz et al., Learning to Extend Molecular Scaffolds with Structural Motifs
+     - Maziarz et al., Learning to Extend Molecular Scaffolds with Structural Motifs
      - Stärk et al., 3D Infomax improves GNNs for Molecular Property Prediction
  - 16:00-17:00 Invited talks and keynotes (session chair: Jennifer Wei)
      - Daniel Reker, Duke University, USA
