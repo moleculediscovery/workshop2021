@@ -91,8 +91,8 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**25** NPS-MS: A highly accurate MS/MS prediction model for Novel Psychoactive Substances; Fei Wang, Daniel Pasin, Jaanus Liigand, Michael Skinnider, Foster Leonard, Petur Dalsgaard, Russell Greiner, David [\[PDF\]](https://cloud.ml.jku.at/s/TixweJazScdqCek)
  - &#35;**26** Bootstrap Your Flow; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, José Miguel Hernández-Lobato
  - &#35;**27** ChemBERTa-2: Towards Chemical Foundation Models; Walid Ahmad, Elana Simon, Seyone Chithrananda, Bharath Ramsundar
- - &#35;**28** Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics; John Kevin Cava, John Vant, Nicholas Ho, Ankita Shukla, Pavan K. Turaga, Ross Maciejewski, Abhishek Singharoy
- - &#35;**29** Molecular Graph Generation via Geometric Scattering; Dhananjay Bhaskar, Jackson D Grady, Michael Perlmutter, Smita Krishnaswamy
+ - &#35;**28** Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics; John Kevin Cava, John Vant, Nicholas Ho, Ankita Shukla, Pavan K. Turaga, Ross Maciejewski, Abhishek Singharoy [\[PDF\]](https://cloud.ml.jku.at/s/fdTHqR79XkTJte4)
+ - &#35;**29** Molecular Graph Generation via Geometric Scattering; Dhananjay Bhaskar, Jackson D Grady, Michael Perlmutter, Smita Krishnaswamy [\[PDF\]](https://cloud.ml.jku.at/s/CER5RDqgimWJaHK)
  - &#35;**31** Permutation Equivariant Generative Adversarial Networks for Graphs; Yoann Boget, Magda Gregorova, Alexandros Kalousis
 Wishart
  - &#35;**33** A generalized framework for embedding-based few-shot learning methods in drug discovery; Johannes Schimunek, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer
