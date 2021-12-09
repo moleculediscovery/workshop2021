@@ -8,7 +8,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
 |  |  | Speaker | Title |
 |:---:|:---:|:---:|:---:|
 | 9:00 | Opening remarks | ML4Molecules Program Chairs |  |
-| 9:15-10:30 | Workshop talks<br>Session chair: Marwin Segler | Ola Engkvist, AstraZeneca, Sweden<br>-<br>Andrea Volkamer, Charite Berlin, Germany <br>-<br>Johannes Margraf, Fritz Haber Institute Berlin, Germany<br>-<br>Günter Klambauer, University of Linz, Austria<br>-<br>Sereina Riniker, ETH Zurich, Switzerland<br>-<br>Jose Miguel Hernandez Lobato, University of Cambridge, UK<br>-<br>Francesca Grisoni, TU Eindhoven, Netherlands | AI for Drug Design, a personal perspective<br>-<br>ML Models to Support Risk Assessment of Small Molecules<br>-<br>Chemical ML beyond established benchmark datasets<br>-<br>Moving beyond narrow AIs in Drug Discovery<br>-<br>Learning chemistry in the limit of finite training sets<br>-<br>Bootstrap your Flow for Improved Sampling from Boltzmann Distributions<br>-<br>De novo design with chemical language models: between theory and experiments |
+| 9:15-10:30 | Workshop talks<br>Session chair: Marwin Segler | Ola Engkvist, AstraZeneca, Sweden<br>-<br>Andrea Volkamer, Charite Berlin, Germany <br>-<br>Johannes Margraf, Fritz Haber Institute Berlin, Germany<br>-<br>Günter Klambauer, University of Linz, Austria<br>-<br>Sereina Riniker, ETH Zurich, Switzerland<br>-<br>Jose Miguel Hernandez Lobato, University of Cambridge, UK<br>-<br>Francesca Grisoni, TU Eindhoven, Netherlands |AI for Drug Design, a personal perspective<br>-<br>ML Models to Support Risk Assessment of Small Molecules<br>-<br>Chemical ML beyond established benchmark datasets<br>-<br>Moving beyond narrow AIs in Drug Discovery<br>-<br>Learning chemistry in the limit of finite training sets<br>-<br>Bootstrap your Flow for Improved Sampling from Boltzmann Distributions<br>-<br>De novo design with chemical language models: between theory and experiments |
 | 10:30-11:30 | Invited talks<br>Session chair: Andrea Volkamer | Paula Marin Zapata, Bayer Pharmaceuticals, Germany<br>-<br>Greg Landrum, ETH Zurich, Switzerland<br>-<br>Camille Marini, Owkin, France | Using cell morphology to guide de-novo hit design<br>-<br>Some thoughts on the molecule part of Machine learning for molecule discovery<br>-<br>MELLODDY: Accelerating Drug Discovery by Competitive Cooperation using privacy preserving federated learning |
 | 11:30-12:30  | Poster session 1<br>[Gathertown](https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop) |  |  |
 | 12:30-14:30 | Break |  |  |
@@ -38,7 +38,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
 - &#35;**12** Interpreting Molecular Space with Deep Generative Models; Yuanqi Du, Xian Liu, Shengchao Liu, Jieyu Zhang, Bolei Zhou [\[PDF\]](https://cloud.ml.jku.at/s/ESbTp4famasNJoX)
 - &#35;**21** Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking; Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause
 - &#35;**30** Weisfeiler and Lehman Go Cellular: CW Networks; Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Lio, Guido Montufar, Michael M. Bronstein
-- &#35;**32** Learning to Extend Molecular Scaffolds with Structural Motifs; Krzysztof Maziarz, Henry Richard Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, Marc Brockschmidt
+- &#35;**32** Learning to Extend Molecular Scaffolds with Structural Motifs; Krzysztof Maziarz, Henry Richard Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, Marc Brockschmidt [\[PDF\]](https://cloud.ml.jku.at/s/WHbgXiHoTjngZ5R)
 - &#35;**35** Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces; Aryan Deshwal, Jana Doppa [\[PDF\]](https://cloud.ml.jku.at/s/6Kr2ktb7KNqSexk)
 - &#35;**36** DOCKSTRING, a better yardstick for ligand discovery; Miguel Garcia Ortegon, Gregor N. C. Simm, Austin Tripp, José Miguel Hernández-Lobato, Andreas Bender, Sergio Bacallado [\[PDF\]](https://cloud.ml.jku.at/s/JRKWmN5Cq3xojnG)
 
@@ -54,21 +54,20 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**15** Interpretable Molecular Graph Generation via Monotonic Constraints; Yuanqi Du, Xiaojie Guo, Amarda Shehu, Liang Zhao [\[PDF\]](https://cloud.ml.jku.at/s/jXy5S8AwqEfSwPa)
  - &#35;**16** Molecular Property Prediction as a Few-Shot Learning Problem; Megan Stanley, John F Bronskill, Krzysztof Maziarz, Hubert Misztela, Jessica Lanini, Marwin Segler, Nadine Schneider, Marc Brockschmidt [\[PDF\]](https://cloud.ml.jku.at/s/E3AMQ3wnSy2Atzz)
  - &#35;**17** FastFlows: Flow-Based Models for Molecular GraphGeneration; Nathan C. Frey, Vijay Gadepally, Bharath Ramsundar [\[PDF\]](https://cloud.ml.jku.at/s/DA4SbxSG3nHggAE)
- - &#35;**18** Multi-task deep reinforcement learning for molecular optimization; Zhenwei DAI, Denis Akhiyarov, Reda Alami, Diego Pantano, Mauricio Araya-Polo, Cécile Pereira
- - &#35;**19** MoleculeFlow: A Deep Generative Workflow for 3D Molecular Generation; Ethan Ferguson, Shehtab Zaman, Mauricio Araya-Polo, Denis Akhiyarov, Kenneth Chiu, Cécile Pereira
- - &#35;**20** Semi-Supervised GCN for learning Molecular Structure-Activity Relationships; Alessio Ragno, Dylan Savoia, Roberto Capobianco
+ - &#35;**18** Multi-task deep reinforcement learning for molecular optimization; Zhenwei DAI, Denis Akhiyarov, Reda Alami, Diego Pantano, Mauricio Araya-Polo, Cécile Pereira [\[PDF\]](https://cloud.ml.jku.at/s/weLHWmPNpnMHbjA)
+ - &#35;**19** MoleculeFlow: A Deep Generative Workflow for 3D Molecular Generation; Ethan Ferguson, Shehtab Zaman, Mauricio Araya-Polo, Denis Akhiyarov, Kenneth Chiu, Cécile Pereira [\[PDF\]](https://cloud.ml.jku.at/s/weLHWmPNpnMHbjA)
+ - &#35;**20** Semi-Supervised GCN for learning Molecular Structure-Activity Relationships; Alessio Ragno, Dylan Savoia, Roberto Capobianco [\[PDF\]](https://cloud.ml.jku.at/s/rwj5fSNNcwsgA3d)
  - &#35;**22** A Sequence-to-Sequence Transformer Model for Disconnection Aware Retrosynthesis; Andrea Byekwaso, Alain C. Vaucher, Philippe Schwaller, Alessandra Toniato, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/nrDLewdnb6qzrtj)
- - &#35;**23** Learning Small Molecule Energies and Interatomic Forces with an Equivariant Transformer on the ANI-1x Dataset; Bryce Hedelius, Fabian Bernd Fuchs, Dennis Della Corte
+ - &#35;**23** Learning Small Molecule Energies and Interatomic Forces with an Equivariant Transformer on the ANI-1x Dataset; Bryce Hedelius, Fabian Bernd Fuchs, Dennis Della Corte [\[PDF\]](https://cloud.ml.jku.at/s/7rTnYwCxM5TJx6J)
  - &#35;**24** Score-Based Generative Models for Molecule Generation; Dwaraknath Gnaneshwar, Bharath Ramsundar, Dhairya Gandhi, Rachel Kurchin, Venkatasubraman Viswanathan
  - &#35;**25** NPS-MS: A highly accurate MS/MS prediction model for Novel Psychoactive Substances; Fei Wang, Daniel Pasin, Jaanus Liigand, Michael Skinnider, Foster Leonard, Petur Dalsgaard, Russell Greiner, David [\[PDF\]](https://cloud.ml.jku.at/s/TixweJazScdqCek)
- - &#35;**26** Bootstrap Your Flow; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, José Miguel Hernández-Lobato
- - &#35;**27** ChemBERTa-2: Towards Chemical Foundation Models; Walid Ahmad, Elana Simon, Seyone Chithrananda, Bharath Ramsundar
+ - &#35;**26** Bootstrap Your Flow; Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, José Miguel Hernández-Lobato [\[PDF\]](https://cloud.ml.jku.at/s/RrbySiRFL4EfseN)
+ - &#35;**27** ChemBERTa-2: Towards Chemical Foundation Models; Walid Ahmad, Elana Simon, Seyone Chithrananda, Bharath Ramsundar [\[PDF\]](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S)
  - &#35;**28** Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics; John Kevin Cava, John Vant, Nicholas Ho, Ankita Shukla, Pavan K. Turaga, Ross Maciejewski, Abhishek Singharoy [\[PDF\]](https://cloud.ml.jku.at/s/fdTHqR79XkTJte4)
  - &#35;**29** Molecular Graph Generation via Geometric Scattering; Dhananjay Bhaskar, Jackson D Grady, Michael Perlmutter, Smita Krishnaswamy [\[PDF\]](https://cloud.ml.jku.at/s/CER5RDqgimWJaHK)
- - &#35;**31** Permutation Equivariant Generative Adversarial Networks for Graphs; Yoann Boget, Magda Gregorova, Alexandros Kalousis
-Wishart [\[PDF\]](https://cloud.ml.jku.at/s/jEypNZPGXnWGqqm)
+ - &#35;**31** Permutation Equivariant Generative Adversarial Networks for Graphs; Yoann Boget, Magda Gregorova, Alexandros Kalousis Wishart [\[PDF\]](https://cloud.ml.jku.at/s/AmSGrCQfDzXkixT)
  - &#35;**33** A generalized framework for embedding-based few-shot learning methods in drug discovery; Johannes Schimunek, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer
- - &#35;**34** Molecular Bioactivity Prediction Based on Hybrid Deep Neural Network; Magdalena Wiercioch
+ - &#35;**34** Molecular Bioactivity Prediction Based on Hybrid Deep Neural Network; Magdalena Wiercioch [\[PDF\]](https://cloud.ml.jku.at/s/2Z48KtzMCSDxoDZ)
  - &#35;**38** Non-equilibrium molecular geometries in graph neural networks; Ali Raza, Xiaoli Fern, Adrian Henle
 
 
