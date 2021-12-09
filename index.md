@@ -48,9 +48,9 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**04** Learning Discrete Neural Reaction Class to Improve Retrosynthesis Prediction; Théophile Gaudin, Yuhuai Wu, Robert Pollice, Animesh Garg, Alan Aspuru-Guzik  [\[PDF\]](https://cloud.ml.jku.at/s/BdpL3kSGK6ScWXY)
  - &#35;**06** Designing physics-based reaction representations; Puck Van Gerwen, Raimon De Aguilar-Amat Fabregat, Alberto Fabrizio, Clemence Corminboeuf [\[PDF\]](https://cloud.ml.jku.at/s/ZwcnzLDfACQ4egt) [\[ZIP\]](https://cloud.ml.jku.at/s/zn37ERRcB374YmY)
  - &#35;**07** A transferable Boltzmann generator for small-molecules conformers; Juan Viguera Diez, Sara Romeo Atance, Ola Engkvist, Rocío Mercado, Simon Olsson [\[PDF\]](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ) [\[ZIP\]](https://cloud.ml.jku.at/s/gGk3PE35zQ7zZtK)
- - &#35;**11** Molecule Generation from Input-Attributions overGraph Convolutional Networks; Dylan Savoia, Alessio Ragno, Roberto Capobianco
+ - &#35;**11** Molecule Generation from Input-Attributions over Graph Convolutional Networks; Dylan Savoia, Alessio Ragno, Roberto Capobianco [\[PDF\]](https://cloud.ml.jku.at/s/28FsiTRKfjEdLMG)
  - &#35;**13** Beyond Atoms and Bonds: Contextual Explainability via Molecular Graphical Depictions; Marco Bertolini, Linlin Zhao, Djork-Arné Clevert, Floriane Montanari [\[PDF\]](https://cloud.ml.jku.at/s/YKkxKKfSwyEXarg)
- - &#35;**14** Relative Molecule Self-Attention Transformer; Lukasz Maziarka, Dawid Majchrowski, Tomasz Danel, Piotr Gaiński, Jacek Tabor, Igor T. Podolak, Pawel Morkisz, Stanislaw Kamil Jastrzebski
+ - &#35;**14** Relative Molecule Self-Attention Transformer; Lukasz Maziarka, Dawid Majchrowski, Tomasz Danel, Piotr Gaiński, Jacek Tabor, Igor T. Podolak, Pawel Morkisz, Stanislaw Kamil Jastrzebski [\[PDF\]](https://cloud.ml.jku.at/s/CnCjTFQ6qCGgFeF)
  - &#35;**15** Interpretable Molecular Graph Generation via Monotonic Constraints; Yuanqi Du, Xiaojie Guo, Amarda Shehu, Liang Zhao [\[PDF\]](https://cloud.ml.jku.at/s/jXy5S8AwqEfSwPa)
  - &#35;**16** Molecular Property Prediction as a Few-Shot Learning Problem; Megan Stanley, John F Bronskill, Krzysztof Maziarz, Hubert Misztela, Jessica Lanini, Marwin Segler, Nadine Schneider, Marc Brockschmidt [\[PDF\]](https://cloud.ml.jku.at/s/E3AMQ3wnSy2Atzz)
  - &#35;**17** FastFlows: Flow-Based Models for Molecular GraphGeneration; Nathan C. Frey, Vijay Gadepally, Bharath Ramsundar [\[PDF\]](https://cloud.ml.jku.at/s/DA4SbxSG3nHggAE)
@@ -68,7 +68,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**31** Permutation Equivariant Generative Adversarial Networks for Graphs; Yoann Boget, Magda Gregorova, Alexandros Kalousis Wishart [\[PDF\]](https://cloud.ml.jku.at/s/AmSGrCQfDzXkixT)
  - &#35;**33** A generalized framework for embedding-based few-shot learning methods in drug discovery; Johannes Schimunek, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer
  - &#35;**34** Molecular Bioactivity Prediction Based on Hybrid Deep Neural Network; Magdalena Wiercioch [\[PDF\]](https://cloud.ml.jku.at/s/2Z48KtzMCSDxoDZ)
- - &#35;**38** Non-equilibrium molecular geometries in graph neural networks; Ali Raza, Xiaoli Fern, Adrian Henle
+ - &#35;**38** Non-equilibrium molecular geometries in graph neural networks; Ali Raza, Xiaoli Fern, Adrian Henle [\[PDF\]](https://cloud.ml.jku.at/s/5WT2T9fNJtpDs8C)
 
 
 
