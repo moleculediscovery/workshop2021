@@ -5,22 +5,190 @@ The workshop will be hosted by the [ELLIS unit Cambridge](http://www.ellis.eng.c
 # Schedule (preliminary; CET time)
 The workshop will take place on December 13th, 2021 via Zoom.
 
-|  |  | Speaker | Title |
-|:---:|:---:|:---:|:---:|
-| 9:00 | Opening remarks | ML4Molecules Program Chairs |  |
-| 9:15-10:30 | Workshop talks<br>Session chair: Marwin Segler | Ola Engkvist, AstraZeneca, Sweden<br>-<br>Andrea Volkamer, Charite Berlin, Germany <br>-<br>Johannes Margraf, Fritz Haber Institute Berlin, Germany<br>-<br>Günter Klambauer, University of Linz, Austria<br>-<br>Sereina Riniker, ETH Zurich, Switzerland<br>-<br>Jose Miguel Hernandez Lobato, University of Cambridge, UK<br>-<br>Francesca Grisoni, TU Eindhoven, Netherlands |AI for Drug Design, a personal perspective<br>-<br>ML Models to Support Risk Assessment of Small Molecules<br>-<br>Chemical ML beyond established benchmark datasets<br>-<br>Moving beyond narrow AIs in Drug Discovery<br>-<br>Learning chemistry in the limit of finite training sets<br>-<br>Bootstrap your Flow for Improved Sampling from Boltzmann Distributions<br>-<br>De novo design with chemical language models: between theory and experiments |
-| 10:30-11:30 | Invited talks<br>Session chair: Andrea Volkamer | Paula Marin Zapata, Bayer Pharmaceuticals, Germany<br>-<br>Greg Landrum, ETH Zurich, Switzerland<br>-<br>Camille Marini, Owkin, France | Using cell morphology to guide de-novo hit design<br>-<br>Some thoughts on the molecule part of Machine learning for molecule discovery<br>-<br>MELLODDY: Accelerating Drug Discovery by Competitive Cooperation using privacy preserving federated learning |
-| 11:30-12:30  | Poster session 1<br>[Gathertown](https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop) |  |  |
-| 12:30-14:30 | Break |  |  |
-| 14:30-15:30 | Workshop talks<br>Session Chair: Nadine Schneider | Michele Ceriotti, EPFL, Switzerland<br>-<br>Megan Stanley, Microsoft Research, UK<br>-<br>Fernanda Duarte, University of Oxford, UK<br>Efficient ML strategies to explore chemical reactivity<br>Gábor Csányi, University of Cambridge, UK<br>-<br>Wengong Jin, MIT, USA<br>-<br>Cecilia Clementi, Freie Universität Berlin, Germany | Machine learning for chemistry, beyond potentials<br>-<br>Molecular Property Prediction as a Few-Shot Learning Problem<br>-<br>TBD<br>-<br>TBD<br>-<br>Iterative refinement graph neural network for antibody sequence-structure co-design<br>-<br>Designing protein models with machine learning and experimental data |
-| 15:30-16:00 | Contributed talks<br>Session Chair: Nadine Schneider | Andreu Vall<br>-<br>Krzysztof Maziarz<br>-<br>Hannes Stärk | BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions<br>-<br>Learning to Extend Molecular Scaffolds with Structural Motifs<br>-<br>3D Infomax improves GNNs for Molecular Property Prediction |
-| 16:00-17:00 | Invited talks<br>Session Chair: Jennifer Wei | Daniel Reker, Duke University, USA<br>-<br>Philippe Schwaller, EPFL, Switzerland<br>-<br>Heather Kulik, MIT, USA | Active Molecular Machine Learning<br>-<br>Learning the Language of Chemical Reactions using Transformers<br>-<br>Putting DFT to the test in machine-learning-accelerated materials discovery |
-| 17:00-17:30 | Panel discussion<br>Moderator: Marwin Segler | Ola Engkvist<br><br>Bharath Ramsundar<br><br>Jose Miguel Hernandez Lobato<br><br>Francesca Grisoni | Current challenges and opportunities in Machine Learning for Molecule Discovery |
-| 18:00-19:00  | Poster session 2<br>[Gathertown](https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop) |  |  |
-| 19:00-20:00 | Break |  |  |
-| 20:00-21:30 | Contributed talks<br>Session chair: Günter Klambauer | Miguel Garcia Ortegon<br>-<br>Loďc Dassi Kwate<br>-<br>Cristian Bodnar<br>-<br>Octavian-Eugen Ganea<br>-<br>Kexin Huang<br>-<br>Yuanqi Du<br>-<br>Aryan Deshwal | DOCKSTRING, a better yardstick for ligand discovery<br>-<br>Identification of Enzymatic Active Sites with Unsupervised Language Modeling<br>-<br>Weisfeiler and Lehman Go Cellular: CW Networks<br>-<br>Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking<br>-<br>Benchmarking Molecular Machine Learning in Therapeutics Data Commons<br>-<br>Interpreting Molecular Space with Deep Generative Models<br>-<br>Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces |
-|  | Invited talk | Tess Smidt, MIT, USA | Unexpected properties of symmetry equivariant neural networks |
-| 21:30-21:45 | Closing remarks |  |  |
+<table>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Speaker</td>
+      <td>Title</td>
+    </tr>
+    <tr>
+      <td>9:00</td>
+      <td>Opening remarks</td>
+      <td>ML4Molecules Program Chairs</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="7">9:15-10:30</td>
+      <td rowspan="7">Workshop talks 
+  Session chair: Marwin Segler</td>
+      <td>Ola Engkvist, AstraZeneca, Sweden </td>
+      <td>AI for Drug Design, a personal perspective</td>
+    </tr>
+    <tr>
+      <td>Andrea Volkamer, Charite Berlin, Germany</td>
+      <td>ML Models to Support Risk Assessment of Small Molecules</td>
+    </tr>
+    <tr>
+      <td>Johannes Margraf, Fritz Haber Institute Berlin, Germany</td>
+      <td>Chemical ML beyond established benchmark datasets</td>
+    </tr><tr>
+      <td>Günter Klambauer, University of Linz, Austria</td>
+      <td>Moving beyond narrow AIs in Drug Discovery</td>
+    </tr>
+    <tr>
+      <td>Sereina Riniker, ETH Zurich, Switzerland</td>
+      <td>Learning chemistry in the limit of finite training sets</td>
+    </tr>
+    <tr>
+      <td>Jose Miguel Hernandez Lobato, University of Cambridge, UK</td>
+      <td>Bootstrap your Flow for Improved Sampling from Boltzmann Distributions</td>
+    </tr>
+    <tr>
+      <td>Francesca Grisoni, TU Eindhoven, Netherlands</td>
+      <td>De novo design with chemical language models: between theory and experiments</td>
+    </tr>
+    <tr>
+      <td rowspan="3">10:30-11:30</td>
+      <td rowspan="3">Invited Talks <br> Session chair: Andrea Volkamer</td>
+      <td>Paula Marin Zapata, Bayer Pharmaceuticals, Germany</td>
+      <td>Using cell morphology to guide de-novo hit design</td>
+    </tr>
+  <tr>
+      <td>Greg Landrum, ETH Zurich, Switzerland</td>
+      <td>Some thoughts on the molecule part of Machine learning for molecule discovery</td>
+  </tr>
+  <tr>
+      <td>Camille Marini, Owkin, France </td>
+      <td>MELLODDY: Accelerating Drug Discovery by Competitive Cooperation using privacy preserving federated learning </td>
+  </tr>
+  <tr>
+      <td>11:30-12:30</td>
+      <td>Poster session 1 <a href="https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop">Gathertown</a></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+  <td> 12:30-14:30 </td>
+  <td> Break </td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr> 
+      <td rowspan="6">14:30-15:30</td> 
+      <td rowspan="6">Workshop talks <br> Session Chair: Nadine Schneider</td>
+      <td>Michele Ceriotti, EPFL, Switzerland</td>
+      <td>Machine learning for chemistry, beyond potentials</td>
+  </tr>
+  <tr>
+      <td>Megan Stanley, Microsoft Research, UK</td>
+      <td>Molecular Property Prediction as a Few-Shot Learning Problem</td>
+  </tr>
+  <tr>
+      <td>Fernanda Duarte, University of Oxford, UK</td>
+      <td>Efficient ML strategies to explore chemical reactivity</td>
+  </tr>
+  <tr>
+      <td>Gábor Csányi, University of Cambridge, UK</td>
+      <td>TBD</td>
+  </tr>
+  <tr>
+      <td>Wengong Jin, MIT, USA</td>
+      <td>Iterative refinement graph neural network for antibody sequence-structure co-design</td>
+  </tr>
+  <tr>
+      <td>Cecilia Clementi, Freie Universität Berlin, Germany</td>
+      <td>Designing protein models with machine learning and experimental data</td>
+  </tr>
+  <tr>
+      <td rowspan="3"> 15:30-16:00 </td> 
+      <td rowspan="3"> Contributed talks <br> Session Chair: Nadine Schneider </td> 
+      <td>Andreu Vall</td>
+      <td>BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions</td>
+  </tr>
+  <tr>
+      <td>Krzysztof Maziarz</td>
+      <td>Learning to Extend Molecular Scaffolds with Structural Motifs</td>
+  </tr>
+  <tr>
+      <td>Hannes Stärk</td>
+      <td>3D Infomax improves GNNs for Molecular Property Prediction</td>
+  </tr>
+  <tr> 
+      <td rowspan="3"> 16:00-17:00</td>
+      <td rowspan="3">Invited talks <br> Session Chair: Jennifer Wei</td>
+      <td>Daniel Reker, Duke University, USA</td>
+      <td>Active Molecular Machine Learning</td>
+  </tr>
+  <tr>
+      <td>Philippe Schwaller, EPFL, Switzerland</td>
+      <td>Learning the Language of Chemical Reactions using Transformers</td>
+  </tr>
+  <tr>
+      <td>Heather Kulik, MIT, USA </td>
+      <td>Putting DFT to the test in machine-learning-accelerated materials discovery</td>
+  </tr> 
+  <tr>
+      <td>17:00-17:30</td>
+      <td>Panel discussion <br> Moderator: Marwin Segler</td>
+      <td>Ola Engkvist, <br> Bharath Ramsundar, <br> Jose Miguel Hernandez Lobato,<br> Francesca Grisoni</td>
+      <td>Current challenges and opportunities in Machine Learning for Molecule Discovery</td>
+  </tr>
+  <tr>
+      <td>18:00-19:00</td>
+      <td>Poster session 2 <a href="https://gather.town/app/XxPF6ZjaEcenEP1e/MDworkshop">Gathertown</a></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>19:00-20:00</td>
+      <td>Break</td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td rowspan=7> 20:00-21:30</td>
+      <td rowspan=7> Contributed talks <br> Session chair: Günter Klambauer </td>
+      <td>Miguel Garcia Ortegon</td>
+      <td>DOCKSTRING, a better yardstick for ligand discovery</td>
+  </tr>
+  <tr>
+      <td>Loďc Dassi Kwate</td>
+      <td>Identification of Enzymatic Active Sites with Unsupervised Language Modeling</td>
+  </tr>
+  <tr>
+      <td>Cristian Bodnar</td>
+      <td>Weisfeiler and Lehman Go Cellular: CW Networks</td>
+  </tr>
+  <tr>
+      <td>Octavian-Eugen Ganea</td>
+      <td>Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking</td>
+  </tr>
+  <tr>
+      <td>Kexin Huang</td>
+      <td>Benchmarking Molecular Machine Learning in Therapeutics Data Commons</td>
+  </tr>
+  <tr>
+      <td>Yuanqi Du</td>
+      <td>Interpreting Molecular Space with Deep Generative Models</td>
+  </tr>
+  <tr>
+      <td>Aryan Deshwal </td>
+      <td>Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces</td>
+  </tr>
+  <tr>
+      <td></td>
+      <td>Invited talk</td>
+      <td>Tess Smidt, MIT, USA</td>
+      <td>Unexpected properties of symmetry equivariant neural networks</td>    
+  </tr>
+  <tr>
+      <td>21:30-21:45</td>
+      <td>Closing remarks</td>
+      <td></td>
+      <td></td>
+  </tr>
+  </table>
 
 # Registration
 Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-205676733647)
