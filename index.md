@@ -20,7 +20,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
     </tr>
     <tr>
       <td rowspan="7">9:15-10:30</td>
-      <td rowspan="7">Workshop talks 
+      <td rowspan="7">Workshop talks
   Session chair: Marwin Segler</td>
       <td>Ola Engkvist, AstraZeneca, Sweden </td>
       <td>AI for Drug Design, a personal perspective</td>
@@ -74,8 +74,8 @@ The workshop will take place on December 13th, 2021 via Zoom.
   <td></td>
   <td></td>
   </tr>
-  <tr> 
-      <td rowspan="6">14:30-15:30</td> 
+  <tr>
+      <td rowspan="6">14:30-15:30</td>
       <td rowspan="6">Workshop talks <br> Session Chair: Nadine Schneider</td>
       <td>Michele Ceriotti, EPFL, Switzerland</td>
       <td>Machine learning for chemistry, beyond potentials</td>
@@ -101,8 +101,8 @@ The workshop will take place on December 13th, 2021 via Zoom.
       <td>Designing protein models with machine learning and experimental data</td>
   </tr>
   <tr>
-      <td rowspan="3"> 15:30-16:00 </td> 
-      <td rowspan="3"> Contributed talks <br> Session Chair: Nadine Schneider </td> 
+      <td rowspan="3"> 15:30-16:00 </td>
+      <td rowspan="3"> Contributed talks <br> Session Chair: Nadine Schneider </td>
       <td>Andreu Vall</td>
       <td>BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions</td>
   </tr>
@@ -114,7 +114,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
       <td>Hannes Stärk</td>
       <td>3D Infomax improves GNNs for Molecular Property Prediction</td>
   </tr>
-  <tr> 
+  <tr>
       <td rowspan="3"> 16:00-17:00</td>
       <td rowspan="3">Invited talks <br> Session Chair: Jennifer Wei</td>
       <td>Daniel Reker, Duke University, USA</td>
@@ -127,7 +127,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
   <tr>
       <td>Heather Kulik, MIT, USA </td>
       <td>Putting DFT to the test in machine-learning-accelerated materials discovery</td>
-  </tr> 
+  </tr>
   <tr>
       <td>17:00-17:30</td>
       <td>Panel discussion <br> Moderator: Marwin Segler</td>
@@ -200,7 +200,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
 
 # Accepted contributions (oral):
 - &#35;**01** 3D Infomax improves GNNs for Molecular Property Prediction; Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Lio [\[PDF\]](https://cloud.ml.jku.at/s/6k9yb8AWDEPYxss)
-- &#35;**02** BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/atin93s4Rks3iM4) [\[ZIP\]](https://cloud.ml.jku.at/s/gKFW7bZnadbDgEo)
+- &#35;**02** BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions; Andreu Vall, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/S7WWdbn33z6eKbp) [\[ZIP\]](https://cloud.ml.jku.at/s/gKFW7bZnadbDgEo)
 - &#35;**08** Benchmarking Molecular Machine Learning in Therapeutics Data Commons; Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf H Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik [\[PDF\]](https://cloud.ml.jku.at/s/54pB5Eqf6ftX7qA)
 - &#35;**10** Identification of Enzymatic Active Sites with Unsupervised Language Modeling	Loïc Dassi Kwate, Matteo Manica, Daniel Probst, Philippe Schwaller, Yves Gaetan Nana Teukam, Teodoro Laino [\[PDF\]](https://cloud.ml.jku.at/s/6HLAWREcPJzbPpj)
 - &#35;**12** Interpreting Molecular Space with Deep Generative Models; Yuanqi Du, Xian Liu, Shengchao Liu, Jieyu Zhang, Bolei Zhou [\[PDF\]](https://cloud.ml.jku.at/s/ESbTp4famasNJoX)
