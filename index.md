@@ -34,7 +34,7 @@ The workshop will take place on December 13th, 2021 via Zoom.
       <td>Chemical ML beyond established benchmark datasets</td>
     </tr><tr>
       <td>Günter Klambauer, University of Linz, Austria</td>
-      <td>Moving beyond narrow AIs in Drug Discovery</td>
+      <td>Moving beyond narrow AIs in Drug Discovery -- a perspective</td>
     </tr>
     <tr>
       <td>Sereina Riniker, ETH Zurich, Switzerland</td>
