@@ -234,7 +234,7 @@ Please register for the event on Eventbrite: [REGISTER](https://www.eventbrite.c
  - &#35;**28** Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics; John Kevin Cava, John Vant, Nicholas Ho, Ankita Shukla, Pavan K. Turaga, Ross Maciejewski, Abhishek Singharoy [\[PDF\]](https://cloud.ml.jku.at/s/fdTHqR79XkTJte4)
  - &#35;**29** Molecular Graph Generation via Geometric Scattering; Dhananjay Bhaskar, Jackson D Grady, Michael Perlmutter, Smita Krishnaswamy [\[PDF\]](https://cloud.ml.jku.at/s/CER5RDqgimWJaHK)
  - &#35;**31** Permutation Equivariant Generative Adversarial Networks for Graphs; Yoann Boget, Magda Gregorova, Alexandros Kalousis Wishart [\[PDF\]](https://cloud.ml.jku.at/s/AmSGrCQfDzXkixT)
- - &#35;**33** A generalized framework for embedding-based few-shot learning methods in drug discovery; Johannes Schimunek, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/nGieBNxFFC46JnW)
+ - &#35;**33** A generalized framework for embedding-based few-shot learning methods in drug discovery; Johannes Schimunek, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer [\[PDF\]](https://cloud.ml.jku.at/s/rL2W7bdSD2WppEM)
  - &#35;**34** Molecular Bioactivity Prediction Based on Hybrid Deep Neural Network; Magdalena Wiercioch [\[PDF\]](https://cloud.ml.jku.at/s/2Z48KtzMCSDxoDZ)
  - &#35;**38** Non-equilibrium molecular geometries in graph neural networks; Ali Raza, Xiaoli Fern, Adrian Henle [\[PDF\]](https://cloud.ml.jku.at/s/5WT2T9fNJtpDs8C)
 
