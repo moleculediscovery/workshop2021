@@ -81,8 +81,8 @@ The workshop will take place on December 13th, 2021 via Zoom. We invite discussi
       <td>Machine learning for chemistry, beyond potentials</td>
   </tr>
   <tr>
-      <td>Megan Stanley, Microsoft Research, UK</td>
-      <td>Molecular Property Prediction as a Few-Shot Learning Problem</td>
+      <td>Cecilia Clementi, Freie Universität Berlin, Germany</td>
+      <td>Designing protein models with machine learning and experimental data</td>
   </tr>
   <tr>
       <td>Fernanda Duarte, University of Oxford, UK</td>
@@ -97,8 +97,8 @@ The workshop will take place on December 13th, 2021 via Zoom. We invite discussi
       <td>Iterative refinement graph neural network for antibody sequence-structure co-design</td>
   </tr>
   <tr>
-      <td>Cecilia Clementi, Freie Universität Berlin, Germany</td>
-      <td>Designing protein models with machine learning and experimental data</td>
+      <td>Megan Stanley, Microsoft Research, UK</td>
+      <td>Molecular Property Prediction as a Few-Shot Learning Problem</td>
   </tr>
   <tr>
       <td rowspan="3"> 15:30-16:00 </td>
