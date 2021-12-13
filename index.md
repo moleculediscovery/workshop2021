@@ -2,7 +2,7 @@ Discovering new molecules with desired functions or activities is crucial for hu
 
 The workshop will be hosted by the [ELLIS unit Cambridge](http://www.ellis.eng.cam.ac.uk/) and [ELLIS unit Linz](https://www.jku.at/en/lit-artificial-intelligence-lab/ellis-unit-linz/) as a side-event to NeurIPS2021.
 
-# Schedule (preliminary; CET time)
+# Schedule (CET time)
 The workshop will take place on December 13th, 2021 via Zoom. We invite discussions and questions for the presenters on [Discord](https://discord.gg/CyKBAMuj).
 
 <table>
