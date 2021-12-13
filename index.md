@@ -107,8 +107,8 @@ The workshop will take place on December 13th, 2021 via Zoom. We invite discussi
       <td>BioassayCLR: Prediction of biological activity for novel bioassays based on rich textual descriptions</td>
   </tr>
   <tr>
-      <td>Krzysztof Maziarz</td>
-      <td>Learning to Extend Molecular Scaffolds with Structural Motifs</td>
+      <td>Yuanqi Du</td>
+      <td>Interpreting Molecular Space with Deep Generative Models</td>
   </tr>
   <tr>
       <td>Hannes Stärk</td>
@@ -169,8 +169,8 @@ The workshop will take place on December 13th, 2021 via Zoom. We invite discussi
       <td>Benchmarking Molecular Machine Learning in Therapeutics Data Commons</td>
   </tr>
   <tr>
-      <td>Yuanqi Du</td>
-      <td>Interpreting Molecular Space with Deep Generative Models</td>
+      <td>Krzysztof Maziarz</td>
+      <td>Learning to Extend Molecular Scaffolds with Structural Motifs</td>
   </tr>
   <tr>
       <td>Aryan Deshwal </td>
