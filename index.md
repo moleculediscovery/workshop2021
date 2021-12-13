@@ -90,7 +90,7 @@ The workshop will take place on December 13th, 2021 via Zoom. We invite discussi
   </tr>
   <tr>
       <td>Gábor Csányi, University of Cambridge, UK</td>
-      <td>TBD</td>
+      <td>Force fields using equivariant polynomials: a unique combination of accuracy and speed</td>
   </tr>
   <tr>
       <td>Wengong Jin, MIT, USA</td>
