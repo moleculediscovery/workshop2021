@@ -42,11 +42,11 @@ The workshop will take place on December 13th, 2021 via Zoom. We invite discussi
     </tr>
     <tr>
       <td>Jose Miguel Hernandez Lobato, University of Cambridge, UK</td>
-      <td>Bootstrap your Flow for Improved Sampling from Boltzmann Distributions</td>
+      <td>Bootstrap your Flow for Improved Sampling from Boltzmann Distributions <a href="https://cloud.ml.jku.at/s/KjaYeio4atgkN7C">PDF</a> </td>
     </tr>
     <tr>
       <td>Francesca Grisoni, TU Eindhoven, Netherlands</td>
-      <td>De novo design with chemical language models: between theory and experiments</td>
+      <td>De novo design with chemical language models: between theory and experiments <a href="https://cloud.ml.jku.at/s/o7tM24qLT2bK6nL">PDF</a></td>
     </tr>
     <tr>
       <td rowspan="3">10:30-11:30</td>
